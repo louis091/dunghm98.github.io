@@ -17,8 +17,8 @@ function firstQuestion(){
         title: 'Tao chào mày',
         text: 'Tao sẽ hỏi, mày sẽ phải trả lời tao nhé.',
         imageUrl: '../img/cuteCat.jpg',
-        imageWidth: 300,
-        imageHeight: 300,
+        imageWidth: 500,
+        imageHeight: 500,
         background: '#fff url("../img/iput-bg.jpg")',
         imageAlt: 'Custom image',
       }).then(function(){
