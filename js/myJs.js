@@ -16,10 +16,10 @@ function firstQuestion(){
     Swal.fire({
         title: 'Tao chào mày',
         text: 'Tao sẽ hỏi, mày sẽ phải trả lời tao nhé.',
-        imageUrl: '../img/cuteCat.jpeg',
-        imageWidth: 300,
-        imageHeight: 300,
-        background: '#fff url("../img/iput-bg.jpeg")',
+        imageUrl: '../img/cuteCat.jpg',
+        imageWidth: 400,
+        imageHeight: 400,
+        background: '#fff url("../img/iput-bg.jpg")',
         imageAlt: 'Custom image',
       }).then(function(){
         $('.content').show(200);
