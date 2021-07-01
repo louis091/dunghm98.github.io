@@ -19,7 +19,7 @@ function firstQuestion(){
         imageUrl: '../img/cuteCat.jpg',
         imageWidth: 300,
         imageHeight: 300,
-        background: '#fff url("../img/iput-bg.jpg")',
+        background: '#fff url("../img/iput-bg.jpeg")',
         imageAlt: 'Custom image',
       }).then(function(){
         $('.content').show(200);
